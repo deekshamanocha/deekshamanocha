@@ -13,3 +13,17 @@ Here are some ideas to get you started: -->
 - 😄 Pronouns: She/Her
 <!-- - ⚡ Fun fact: ... -->
 
+
+###  Languages I can Code
+ <p>
+  <a href="https://github.com/deekshamanocha">
+    <img title="🔥" alt="top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshamanocha&layout=compact&theme=dark&bg_color=202124" />
+    <br>
+  <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-0000AA?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+ <img alt="java" src="https://img.shields.io/badge/java-%231572B6.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="python" src="https://img.shields.io/badge/python-00599C?style=for-the-badge&logo=python%2B%2B&logoColor=white">
+</p>
