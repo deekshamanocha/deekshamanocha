@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Deeksha Manocha
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on upskilling myself
 - 👯 I’m looking to collaborate on open source
 - 📫 How to reach me:  <a href="https://www.linkedin.com/in/deeksha-manocha-8752581b5/">LinkedIn</a>  
 - 😄 Pronouns: She/Her
