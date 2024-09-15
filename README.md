@@ -2,9 +2,7 @@
 
 - 🔭 I’m currently working on upskilling myself
 - 👯 I’m looking to collaborate on open source
-- 📫 How to reach me:   <a href="https://www.linkedin.com/in/deeksha-manocha-8752581b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a>
-
-- <a href="mailto:deekshamanocha04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+- 📫 How to reach me:   <a href="https://www.linkedin.com/in/deeksha-manocha-8752581b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit" /></a> <a href="mailto:deekshamanocha04@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 - 😄 Pronouns: She/Her
 
