@@ -35,18 +35,6 @@
   <h3 align="center">
     <img
       height="25px"
-      src="https://img.shields.io/badge/-Databases-faebee?&style=for-the-badge&logoWidth=50"
-    />
-  </h3>
-
-
-  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-</div>
-<div align="center">
-  <h3 align="center">
-    <img
-      height="25px"
       src="https://img.shields.io/badge/-Tools and Services-faebee?&style=for-the-badge&logoWidth=50"
     />
   </h3>
@@ -63,6 +51,19 @@
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
   />
 </div>
+<div align="center">
+  <h3 align="center">
+    <img
+      height="25px"
+      src="https://img.shields.io/badge/-Databases-faebee?&style=for-the-badge&logoWidth=50"
+    />
+  </h3>
+
+
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+</div>
+
 
 
  
