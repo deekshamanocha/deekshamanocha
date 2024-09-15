@@ -20,11 +20,4 @@
 </p>
 
  
- ##  Github stats
-<p>
-  <a href="https://github.com/deekshamanocha">
-  <img title="🔥" alt="deeksha Github stats" src="https://github-readme-stats.vercel.app/api?username=deekshamanocha&show_icons=true&bg_color=202124&text_color=fcfcfa&title_color=ff8070&icon_color=ff8070"/>
-  <br>
-  
-  </a>
-</p>
+
