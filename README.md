@@ -38,9 +38,9 @@
       src="https://img.shields.io/badge/-Databases-faebee?&style=for-the-badge&logoWidth=50"
     />
   </h3>
-      ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 </div>
 <div align="center">
   <h3 align="center">
