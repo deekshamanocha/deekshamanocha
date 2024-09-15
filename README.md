@@ -50,6 +50,10 @@
     alt="GIT"
     src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"
   />
+  <img
+    alt="IntelliJ"
+    src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"
+
 </div>
 <div align="center">
   <h3 align="center">
