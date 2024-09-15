@@ -38,10 +38,9 @@
       src="https://img.shields.io/badge/-Databases-faebee?&style=for-the-badge&logoWidth=50"
     />
   </h3>
-
-  ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 </div>
 <div align="center">
   <h3 align="center">
